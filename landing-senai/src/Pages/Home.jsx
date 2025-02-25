@@ -1,11 +1,18 @@
 import React from 'react'
+import styles from './css/Home.module.css'
 import NavBarra from '../Components/NavBarra'
 
 const Home = () => {
   return (
     <div>
       <NavBarra />
-      <h1>Ola, hello Fort</h1>
+      <div className={styles.header}>
+        <img src="/BannerSenai.png" alt="" />
+      </div>
+      <div className={styles.container}>
+      <p>NOSSOS CURSOS</p>
+      <h1>CURSOS EM DESTAQUE</h1>
+      </div>
     </div>
   )
 }

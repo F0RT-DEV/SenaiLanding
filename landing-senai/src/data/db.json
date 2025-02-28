@@ -1,0 +1,65 @@
+{
+    "cursos": [
+      {
+        "id": "1",
+        "nome": "TÉCNICO EM ELETROTÉCNICA",
+        "descricao": "Curso voltado para formação técnica em eletrotécnica, abordando instalações elétricas, circuitos e normas técnicas.",
+        "preco": 4009.90,
+        "categoria": "Eletrotécnica",
+        "imagemUrl": "https://www.pensarcursos.com.br/blog/wp-content/uploads/2024/03/curso-mecanica-de-motos1.png",
+        "duracao": "1600",
+        "cidade":"Vitoria"
+      },
+      {
+        "id": "2",
+        "nome": "TÉCNICO EM MANUTENÇÃO AUTOMOTIVA",
+        "descricao": "Capacitação técnica para manutenção, diagnóstico e reparo de sistemas automotivos.",
+        "preco": 1779.90,
+        "categoria": "Automotiva",
+        "imagemUrl": "https://www.pensarcursos.com.br/blog/wp-content/uploads/2024/03/curso-mecanica-de-motos1.png",
+        "duracao": "1000",
+        "cidade":"Vitoria"
+      },
+      {
+        "id": "3",
+        "nome": "TÉCNICO EM DESENVOLVIMENTO DE SISTEMAS",
+        "descricao": "Curso focado em programação, desenvolvimento de software e banco de dados.",
+        "preco": 2559.90,
+        "categoria": "TI",
+        "imagemUrl": "https://www.pensarcursos.com.br/blog/wp-content/uploads/2024/03/curso-mecanica-de-motos1.png",
+        "duracao": "800",
+        "cidade":"Vitoria"
+      },
+      {
+        "id": "4",
+        "nome": "TÉCNICO EM MECÂNICA",
+        "descricao": "Ensina conceitos de mecânica industrial, manutenção e operação de máquinas e equipamentos.",
+        "preco": 1999.90,
+        "categoria": "Mecânica",
+        "imagemUrl": "https://www.pensarcursos.com.br/blog/wp-content/uploads/2024/03/curso-mecanica-de-motos1.png",
+        "duracao": "2200",
+        "cidade":"Vitoria"
+      },
+      {
+        "id": "5",
+        "nome": "TÉCNICO EM SEGURANÇA DO TRABALHO",
+        "descricao": "Capacitação para prevenção de acidentes e garantia da segurança no ambiente de trabalho.",
+        "preco": 1059.90,
+        "categoria": "Segurança",
+        "imagemUrl": "https://www.pensarcursos.com.br/blog/wp-content/uploads/2024/03/curso-mecanica-de-motos1.png",
+        "duracao": "800",
+        "cidade":"Vitoria"
+      },
+      {
+        "id": "6",
+        "nome": "TÉCNICO EM RECURSOS HUMANOS",
+        "descricao": "Formação em gestão de pessoas, recrutamento, seleção e administração de pessoal.",
+        "preco": 1990.90,
+        "categoria": "Recursos Humanos",
+        "imagemUrl": "https://www.pensarcursos.com.br/blog/wp-content/uploads/2024/03/curso-mecanica-de-motos1.png",
+        "duracao": "2200",
+        "cidade":"Vitoria"
+      }
+    ]
+  }
+  

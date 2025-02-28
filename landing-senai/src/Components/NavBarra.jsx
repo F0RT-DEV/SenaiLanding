@@ -53,10 +53,10 @@ const NavBarra = () => {
 </svg>
 </div>
     <nav className={styles.navbar}>
-    <NavLink className={styles.link} to="/"> INICIO</NavLink>
-    <NavLink className={styles.link} to="/cadastro"> SOBRE</NavLink>
-    <NavLink className={styles.link} to="/contato"> CONTATO</NavLink>
-    <NavLink className={styles.link} to="/sobre"> LOGIN</NavLink>
+    <NavLink className={styles.link} to="/">INICIO</NavLink>
+    <NavLink className={styles.link} to="/Sobre">SOBRE</NavLink>
+    <NavLink className={styles.link} to="/contato">CONTATO</NavLink>
+    <NavLink className={styles.link} to="/sobre">LOGIN</NavLink>
   </nav>
   </div>
   )

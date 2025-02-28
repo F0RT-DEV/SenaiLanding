@@ -1,12 +1,13 @@
-import NavBarra from './Components/NavBarra'
 import Home from './Pages/Home'
-import './App.css'
+import Footer from './Components/Footer'
+
 
 function App() {
 
   return (
     <>
       <Home />
+      <Footer/>
     </>
   )
 }

@@ -1,13 +1,11 @@
 import React from 'react'
 import styles from './css/Home.module.css'
-import NavBarra from '../Components/NavBarra'
 import CardCursos from '../Components/CardCursos'
 import Sobre from './Sobre'
 
 const Home = () => {
   return (
     <div>
-      <NavBarra />
       <div className={styles.header}>
         <img src="/BannerSenai.png" alt="" />
       </div>
@@ -16,7 +14,6 @@ const Home = () => {
       <h1>CURSOS EM DESTAQUE</h1>
       </div>
       <CardCursos />
-      <Sobre />
     </div>
   )
 }

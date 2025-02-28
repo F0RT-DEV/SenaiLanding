@@ -28,3 +28,15 @@
 .link:hover{
     text-decoration: underline;
 }
+
+@media (forced-colors: active) {
+    body {
+      background-color: black;
+      color: white;
+    }
+  }
+  
+  button {
+    forced-color-adjust: none;
+  }
+  

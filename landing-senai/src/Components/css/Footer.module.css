@@ -50,3 +50,15 @@ ul a{
 .pagamento ul{
     color: white;
 }
+
+@media (forced-colors: active) {
+    body {
+      background-color: black;
+      color: white;
+    }
+  }
+  
+  button {
+    forced-color-adjust: none;
+  }
+  

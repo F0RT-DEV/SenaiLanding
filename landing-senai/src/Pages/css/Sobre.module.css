@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Fugaz+One&family=Hammersmith+One&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+.container1{
+    display: flex;
+    justify-content: space-around;
+    margin: 50px 30px 50px 30px;
+    align-items: center;
+    font-family: 'Hammersmith One',sans-serif;
+}
+
+.container1 h2{
+    color: #2029AD;
+    font-size: 50px;
+}
+.container1 span{
+    color: #FB5909;
+    font-size: 50px;
+}
+
+.container1 p{
+    color: #2029AD;
+    font-size: 20px;
+}
+.container2{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    align-items: center;
+    margin-left: 180px;
+    margin-bottom: 50px;
+    font-family: 'Hammersmith One',sans-serif;
+   
+    p{
+        color: #2029AD;
+    }
+
+    .square1 {
+        width: 370px; 
+        height: 350px;
+        border: 4px solid #511B9E;
+        margin-right: 15px;
+        border-radius: 45px;
+        text-align: center;
+    }
+
+    .square2 {
+        width: 370px; 
+        height: 350px;
+        border: 4px solid #2029AD;
+        margin-right: 15px;
+        border-radius: 45px;
+        text-align: center;
+    }
+    .square3 {
+        width: 370px; 
+        height: 350px;
+        border: 4px solid #FD7B01;
+        margin-right: 15px;
+        border-radius: 45px;
+        text-align: center;
+    }
+
+    h2{
+        margin: 40px 0px 70px 0px;
+    }
+}
+
+.container3{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin-left: 170px;
+
+    .texto1 p{
+        margin-top: 50px;
+    }
+    .texto2{
+        margin-left: 200px;
+    }
+
+    .texto2 iframe{
+        margin-top: 30px;
+        width: 70%;
+        height: 90%;
+    }
+}

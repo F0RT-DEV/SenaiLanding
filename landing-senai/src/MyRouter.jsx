@@ -4,7 +4,8 @@ import Home from './Pages/Home'
 import DetalhesCurso from './Pages/DetalhesCurso.jsx';
 import Sobre from './Pages/Sobre.jsx';
 
-const router = createBrowserRouter([{
+const router = createBrowserRouter([
+    {
     path: "/",
     element: <App />,
     children:[
@@ -13,11 +14,7 @@ const router = createBrowserRouter([{
             element: <Home />
         },
         {
-            path: "/home",
-            element: <Home />,
-        },
-        {
-            path: "/Sobre",
+            path: "/sobre",
             element: <Sobre />
         },
         {

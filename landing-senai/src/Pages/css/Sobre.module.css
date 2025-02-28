@@ -1,4 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Fugaz+One&family=Hammersmith+One&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+.textoh1{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
 .container1{
     display: flex;
     justify-content: space-around;

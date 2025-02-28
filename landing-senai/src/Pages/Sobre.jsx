@@ -4,7 +4,7 @@ import styles from './css/Sobre.module.css'
 const Sobre = () => {
   return (
     <div>
-        <h1>Quem Somos?</h1>
+        <h1 className={styles.textoh1}>Quem Somos?</h1>
         <div className={styles.container1}>
         <h2>A MELHOR ESCOLA DE ENSINO<br/> <span>TÉCNICO</span> DA AMERICA LATINA!</h2>
         <p>o Senai ES segue sua missão de qualificar profissionais para a<br/> indústria, 

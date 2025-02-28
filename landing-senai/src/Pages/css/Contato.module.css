@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Fugaz+One&family=Hammersmith+One&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+.formContainer {
+    min-height: 100vh;
+    padding: 20px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+  } 
+
+  .formTitle {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 50px;
+    opacity: 70%;
+  }
+  
+  .form {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 600px;
+    margin: 20px auto;
+    border: 1px solid #ddd;
+    text-align: center;
+  }
+  
+  .formGroup {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-bottom: 10px;
+    opacity: 70%;
+  }
+  
+  .formGroup label {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .formGroup input,
+  .formGroup textarea {
+    border: none;
+    border-bottom: 1px solid black;
+    padding: 5px;
+    font-size: 14px;
+    outline: none;
+  }
+  
+  .formGroup textarea {
+    resize: none;
+  }
+  
+  .formButton {
+    background-color: #0a1f53;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    width: 40%;
+    height: 60px;
+  }
+  
+  .formButton:hover {
+    background-color: #091a45;
+  }
+  

@@ -3,6 +3,8 @@ import App from './App.jsx';
 import Home from './Pages/Home'
 import DetalhesCurso from './Pages/DetalhesCurso.jsx';
 import Sobre from './Pages/Sobre.jsx';
+import Contato from './Pages/Contato.jsx';
+import Login from './Pages/Login.jsx';
 
 const router = createBrowserRouter([
     {
@@ -16,6 +18,14 @@ const router = createBrowserRouter([
         {
             path: "/sobre",
             element: <Sobre />
+        },
+        {
+            path: "/contato",
+            element: <Contato />
+        },
+        {
+            path: "/login",
+            element: <Login />
         },
         {
             path: "/DetalhesCurso/:id",

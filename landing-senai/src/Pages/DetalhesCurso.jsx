@@ -51,9 +51,13 @@ const DetalhesCurso = () => {
                 <span className={styles.cursoDuracao}>
                     Duração: {curso.duracao} horas
                 </span>
-                <span className={styles.cursoPreco}>Preço Parcelado: R$ {curso.parcelado}</span>
+                <span className={styles.cursoPreco}>Preço Parcelado: {curso.parcelado}</span>
                 <span className={styles.cursoPreco}>Preço Total: R$ {curso.total}</span>
                 <span className={styles.cursoCidade}>Cidade: {curso.cidade}</span>
+
+        <button type="submit" className={styles.botaoCadastro}>
+            Increva-se
+          </button>
             </div>
         </div>
     );

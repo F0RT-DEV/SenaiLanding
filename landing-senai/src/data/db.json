@@ -7,7 +7,7 @@
         "total": 4009.90,
         "parcelado": "Em ate 6x de R$499,00",
         "categoria": "Eletrotécnica",
-        "imagemUrl": "https://www.pensarcursos.com.br/blog/wp-content/uploads/2024/03/curso-mecanica-de-motos1.png",
+        "imagemUrl": "https://arquivos.sfiec.org.br/sfiec/files/images/SENAI_Curso%20de%20Eletrotcnica%20alcana%20melhor%20mdia%20nacional.jpg",
         "duracao": "1600",
         "cidade":"Vitoria"
       },
@@ -16,7 +16,7 @@
         "nome": "TÉCNICO EM MANUTENÇÃO AUTOMOTIVA",
         "descricao": "Capacitação técnica para manutenção, diagnóstico e reparo de sistemas automotivos.",
         "total": 4500.38,
-        "tarcelado": "Em ate 6x de R$499,00",
+        "parcelado": "Em ate 6x de R$499,00",
         "categoria": "Automotiva",
         "imagemUrl": "https://www.pensarcursos.com.br/blog/wp-content/uploads/2024/03/curso-mecanica-de-motos1.png",
         "duracao": "1000",
@@ -29,7 +29,7 @@
         "total": 2559.90,
         "parcelado": "Em ate 6x de R$499,00",
         "categoria": "TI",
-        "imagemUrl": "https://www.pensarcursos.com.br/blog/wp-content/uploads/2024/03/curso-mecanica-de-motos1.png",
+        "imagemUrl": "https://ww3.ms.senac.br/Portals/0/Cursos/47985/Anexo_47985_133190657965751502.webp",
         "duracao": "800",
         "cidade":"Vitoria"
       },
@@ -40,7 +40,7 @@
         "total":1999.90 ,
         "parcelado": "Em ate 6x de R$499,00",
         "categoria": "Mecânica",
-        "imagemUrl": "https://www.pensarcursos.com.br/blog/wp-content/uploads/2024/03/curso-mecanica-de-motos1.png",
+        "imagemUrl": "https://centralpronatec.com.br/wp-content/uploads/2014/12/Fotolia_57528321_Subscription_Monthly_M.jpg",
         "duracao": "2200",
         "cidade":"Vitoria"
       },
@@ -48,10 +48,10 @@
         "id": "5",
         "nome": "TÉCNICO EM SEGURANÇA DO TRABALHO",
         "descricao": "Capacitação para prevenção de acidentes e garantia da segurança no ambiente de trabalho.",
-        "precoTotal":1059.90 ,
-        "precoParcelado": "Em ate 6x de R$499,00",
+        "total":1059.90 ,
+        "parcelado": "Em ate 6x de R$499,00",
         "categoria": "Segurança",
-        "imagemUrl": "https://www.pensarcursos.com.br/blog/wp-content/uploads/2024/03/curso-mecanica-de-motos1.png",
+        "imagemUrl": "https://kover.ind.br/wp-content/uploads/2023/11/1-TECNICO-SEGURANCA-DO-TRABALHO.jpg",
         "duracao": "800",
         "cidade":"Vitoria"
       },
@@ -59,10 +59,10 @@
         "id": "6",
         "nome": "TÉCNICO EM RECURSOS HUMANOS",
         "descricao": "Formação em gestão de pessoas, recrutamento, seleção e administração de pessoal.",
-        "precoTotal":1990.90 ,
-        "precoParcelado": "Em ate 6x de R$499,00",
+        "total":1990.90 ,
+        "parcelado": "Em ate 6x de R$499,00",
         "categoria": "Recursos Humanos",
-        "imagemUrl": "https://www.pensarcursos.com.br/blog/wp-content/uploads/2024/03/curso-mecanica-de-motos1.png",
+        "imagemUrl": "https://blog.prozeducacao.com.br/wp-content/uploads/2022/07/o-que-faz-tecnico-em-rh.jpg",
         "duracao": "2200",
         "cidade":"Vitoria"
       }

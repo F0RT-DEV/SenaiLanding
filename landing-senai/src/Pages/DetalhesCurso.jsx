@@ -56,7 +56,7 @@ const DetalhesCurso = () => {
                 <span className={styles.cursoCidade}>Cidade: {curso.cidade}</span>
 
         <button type="submit" className={styles.botaoCadastro}>
-            Increva-se
+            Matricule-se
           </button>
             </div>
         </div>
